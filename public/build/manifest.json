@@ -1,0 +1,166 @@
+{
+  "node_modules/slick-carousel/slick/ajax-loader.gif": {
+    "file": "assets/ajax-loader-BcnMEykj.gif",
+    "src": "node_modules/slick-carousel/slick/ajax-loader.gif"
+  },
+  "node_modules/slick-carousel/slick/fonts/slick.eot": {
+    "file": "assets/slick-Bi9J8BMx.eot",
+    "src": "node_modules/slick-carousel/slick/fonts/slick.eot"
+  },
+  "node_modules/slick-carousel/slick/fonts/slick.svg": {
+    "file": "assets/slick-BlzDm7g2.svg",
+    "src": "node_modules/slick-carousel/slick/fonts/slick.svg"
+  },
+  "node_modules/slick-carousel/slick/fonts/slick.ttf": {
+    "file": "assets/slick-DWzRxEMf.ttf",
+    "src": "node_modules/slick-carousel/slick/fonts/slick.ttf"
+  },
+  "node_modules/slick-carousel/slick/fonts/slick.woff": {
+    "file": "assets/slick-BlUtDIuC.woff",
+    "src": "node_modules/slick-carousel/slick/fonts/slick.woff"
+  },
+  "resources/images/VSB.mp4": {
+    "file": "assets/VSB-C7owXtp2.mp4",
+    "src": "resources/images/VSB.mp4"
+  },
+  "resources/images/bendreyLogoFinal.png": {
+    "file": "assets/bendreyLogoFinal-CxgAS1EN.png",
+    "src": "resources/images/bendreyLogoFinal.png"
+  },
+  "resources/images/bg.jpg": {
+    "file": "assets/bg-8BMwu2S0.jpg",
+    "src": "resources/images/bg.jpg"
+  },
+  "resources/images/bgBottomBanner.png": {
+    "file": "assets/bgBottomBanner-wGyVdtqZ.png",
+    "src": "resources/images/bgBottomBanner.png"
+  },
+  "resources/images/bgBoxHead1.png": {
+    "file": "assets/bgBoxHead1-B0r_Aa6u.png",
+    "src": "resources/images/bgBoxHead1.png"
+  },
+  "resources/images/bgDownMenu.png": {
+    "file": "assets/bgDownMenu-CNg4kbvA.png",
+    "src": "resources/images/bgDownMenu.png"
+  },
+  "resources/images/bgH1.png": {
+    "file": "assets/bgH1-BugLKaTh.png",
+    "src": "resources/images/bgH1.png"
+  },
+  "resources/images/bgHeader.png": {
+    "file": "assets/bgHeader-pFwCwPES.png",
+    "src": "resources/images/bgHeader.png"
+  },
+  "resources/images/bgHeaderMobile.jpg": {
+    "file": "assets/bgHeaderMobile-C21zfYSc.jpg",
+    "src": "resources/images/bgHeaderMobile.jpg"
+  },
+  "resources/images/bgLeftColumnTop.jpg": {
+    "file": "assets/bgLeftColumnTop-DI6_1PFi.jpg",
+    "src": "resources/images/bgLeftColumnTop.jpg"
+  },
+  "resources/images/bgProduct.png": {
+    "file": "assets/bgProduct-BHPhgR97.png",
+    "src": "resources/images/bgProduct.png"
+  },
+  "resources/images/bgShelf.png": {
+    "file": "assets/bgShelf-CHD1xARx.png",
+    "src": "resources/images/bgShelf.png"
+  },
+  "resources/images/bgTopCarousel.png": {
+    "file": "assets/bgTopCarousel-DRPddHPd.png",
+    "src": "resources/images/bgTopCarousel.png"
+  },
+  "resources/images/bpFavicon.png": {
+    "file": "assets/bpFavicon-DpA6vf5Z.png",
+    "src": "resources/images/bpFavicon.png"
+  },
+  "resources/images/facebook.png": {
+    "file": "assets/facebook-CZpvzEj1.png",
+    "src": "resources/images/facebook.png"
+  },
+  "resources/images/india.png": {
+    "file": "assets/india-DldOQAKg.png",
+    "src": "resources/images/india.png"
+  },
+  "resources/images/instagram.png": {
+    "file": "assets/instagram-DEJqQQMA.png",
+    "src": "resources/images/instagram.png"
+  },
+  "resources/images/left.png": {
+    "file": "assets/left-BfHZjyat.png",
+    "src": "resources/images/left.png"
+  },
+  "resources/images/logoFinal.png": {
+    "file": "assets/logoFinal-WbtLOCE7.png",
+    "src": "resources/images/logoFinal.png"
+  },
+  "resources/images/newBgLogo.png": {
+    "file": "assets/newBgLogo-Ddl-nw70.png",
+    "src": "resources/images/newBgLogo.png"
+  },
+  "resources/images/productOne.jpg": {
+    "file": "assets/productOne-DwO8Zz5d.jpg",
+    "src": "resources/images/productOne.jpg"
+  },
+  "resources/images/right.png": {
+    "file": "assets/right-rFFhZSGn.png",
+    "src": "resources/images/right.png"
+  },
+  "resources/images/social1.png": {
+    "file": "assets/social1-BWPPrQyD.png",
+    "src": "resources/images/social1.png"
+  },
+  "resources/images/social2.png": {
+    "file": "assets/social2-CqoWASsc.png",
+    "src": "resources/images/social2.png"
+  },
+  "resources/images/us.png": {
+    "file": "assets/us-BkGZdKyE.png",
+    "src": "resources/images/us.png"
+  },
+  "resources/images/x.png": {
+    "file": "assets/x-s3eKbmDj.png",
+    "src": "resources/images/x.png"
+  },
+  "resources/js/app.jsx": {
+    "file": "assets/app-Cg8Oerww.js",
+    "name": "app",
+    "src": "resources/js/app.jsx",
+    "isEntry": true,
+    "css": [
+      "assets/app-CU5YnrYn.css"
+    ],
+    "assets": [
+      "assets/logoFinal-WbtLOCE7.png",
+      "assets/bgTopCarousel-DRPddHPd.png",
+      "assets/newBgLogo-Ddl-nw70.png",
+      "assets/bgH1-BugLKaTh.png",
+      "assets/bgBoxHead1-B0r_Aa6u.png",
+      "assets/india-DldOQAKg.png",
+      "assets/us-BkGZdKyE.png",
+      "assets/bendreyLogoFinal-CxgAS1EN.png",
+      "assets/VSB-C7owXtp2.mp4",
+      "assets/bgBottomBanner-wGyVdtqZ.png",
+      "assets/bpFavicon-DpA6vf5Z.png",
+      "assets/productOne-DwO8Zz5d.jpg",
+      "assets/bgShelf-CHD1xARx.png",
+      "assets/instagram-DEJqQQMA.png",
+      "assets/facebook-CZpvzEj1.png",
+      "assets/x-s3eKbmDj.png",
+      "assets/right-rFFhZSGn.png",
+      "assets/left-BfHZjyat.png",
+      "assets/ajax-loader-BcnMEykj.gif",
+      "assets/slick-Bi9J8BMx.eot",
+      "assets/slick-BlUtDIuC.woff",
+      "assets/slick-DWzRxEMf.ttf",
+      "assets/slick-BlzDm7g2.svg",
+      "assets/bgHeaderMobile-C21zfYSc.jpg",
+      "assets/bgProduct-BHPhgR97.png",
+      "assets/bgDownMenu-CNg4kbvA.png",
+      "assets/bgLeftColumnTop-DI6_1PFi.jpg",
+      "assets/bg-8BMwu2S0.jpg",
+      "assets/bgHeader-pFwCwPES.png"
+    ]
+  }
+}
